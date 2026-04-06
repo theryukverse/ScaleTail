@@ -75,6 +75,7 @@ ScaleTail provides ready-to-run [Docker Compose](https://docs.docker.com/compose
 | 🔄 **AdGuardHome Sync**    | A tool for syncing configuration across multiple AdGuard Home instances.        | [Details](services/adguardhome-sync)    |
 | 🌐 **Caddy**               | Caddy is an extensible server platform that uses TLS by default.                | [Details](services/caddy)               |
 | 🌐 **DDNS Updater**        | A self-hosted solution to keep DNS A/AAAA records updated automatically.        | [Details](services/ddns-updater)        |
+| 🌐 **Flaresolverr**        | A proxy server to bypass Cloudflare and DDoS-GUARD protection.                  | [Details](services/flaresolverr)        |
 | 🔍 **Nessus**              | A powerful vulnerability scanner with a free Essentials model for home use.     | [Details](services/nessus)              |
 | 🗃️ **Netbox**              | NetBox is the leading solution for modeling and documenting modern networks.    | [Details](services/netbox)              |
 | 🧩 **Pi-hole**             | A network-level ad blocker that acts as a DNS sinkhole.                         | [Details](services/pihole)              |
